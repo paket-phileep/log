@@ -1,4 +1,4 @@
-module github.com/charmbracelet/log
+module github.com/paket-phileep/log
 
 go 1.19
 
